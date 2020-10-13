@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/components/Homepage.scss';
+import '../../styles/pages/Homepage.scss';
 
 interface Homepage {
 
