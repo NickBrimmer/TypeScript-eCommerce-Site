@@ -6,8 +6,6 @@ import img3 from '../../assets/redSneaker.jpg'
 import img4 from '../../assets/trainers.jpg'
 import img5 from '../../assets/classics.jpg'
 
-import '../../styles/components/Directory.scss';
-
 interface DirectoryProps {
 
 }

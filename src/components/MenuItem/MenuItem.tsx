@@ -1,7 +1,5 @@
 import React from 'react';
 
-import '../../styles/components/MenuItem.scss';
-
 interface MenuItemProps {
   title: string,
   imgUrl: string,
